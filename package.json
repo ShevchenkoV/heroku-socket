@@ -14,7 +14,6 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "start": "node index.js",
-    "setup": "bower install"
+    "start": "node index.js"
   }
 }
